@@ -6,7 +6,7 @@
 | 프로젝트 | 기간 | 키워드 |  참여 | 
 | :--------: | :--------: | :--------: |  :--------: | 
 | [⚾️ 숫자 야구](https://github.com/Judy-999/iOS-NumberBaseBall) |  22.04.12 ~ 22.04.15   | `Code Convention`, <br>`Flow Chart`      |  2인 Team     | 
-| [✊ 묵찌빠 게임](https://github.com/Judy-999/ios-rock-paper-scissors)     | 2022-04-18 ~ 22.04.22    | `Recursion`, `Optional`     |  3인 Team     | 
+| [✊ 묵찌빠 게임](https://github.com/Judy-999/ios-rock-paper-scissors)     | 22.04.18 ~ 22.04.22    | `Recursion`, `Optional`     |  3인 Team     | 
 | [🧃 쥬스 메이커](https://github.com/Judy-999/ios-juice-maker)    | 22.04.25 ~ 22.05.13    | `Singleton`, `Autolayout`     |  2인 Team     | 
 | [🧮 계산기](https://github.com/Judy-999/ios-calculator-app)     | 22.05.16 ~ 22.06.03  | `Queue`, `LinkedList`     |  개인 진행 후 2인 Team으로 전환     | 
 | [🏛 만국박람회](https://github.com/Judy-999/ios-exposition-universelle)     | 22.06.13 ~ 22.06.24     | `TableView`, `JSON`     |   2인 Team    | 
