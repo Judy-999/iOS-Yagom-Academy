@@ -1,6 +1,5 @@
 # Yagom Academy Career Starter
 
-## Project
 > 기간: 2022-04-11 ~ 2022-10-07
 
 | 프로젝트 | 기간 | 키워드 |  참여 | 
@@ -16,3 +15,26 @@
 | [🗂 프로젝트 관리](https://github.com/Judy-999/ios-project-manager)     | 22.09.04 ~ 22.09.30   | `iPad`, `RxSwift`, `MVVM`,<br> `CoreData`, `Firestore`     |  개인     | 
 
 <br>
+
+# Yagom Academy Career Starter Supporter
+
+> 기간: 2022-10-17 ~ 2023-02-10
+
+## 코드 스타터 리뷰
+
+|  코드 스타터 | 리뷰한 PR 모음 |
+| :--------: | :--------: | 
+| 1주차     | [swift-starter-week1](https://github.com/yagom-academy/swift-starter-week1/pulls?q=Judy)     | 
+| 2주차     | [swift-starter-week2](https://github.com/yagom-academy/swift-starter-week2/pulls?q=Judy)   | 
+| 3주차     |  [swift-starter-week3](https://github.com/yagom-academy/swift-starter-week3/pulls?q=Judy)  | 
+| 4주차     |  [swift-starter-week4](https://github.com/yagom-academy/swift-starter-week4/pulls?q=Judy)  | 
+| 5주차     |  [swift-starter-week5](https://github.com/yagom-academy/swift-starter-week5/pulls?q=Judy)  | 
+
+<br>
+
+## 커리어 스타터 리뷰
+
+|  커리어 스타터 | 리뷰한 PR 모음 |
+| :--------: | :--------: | 
+| 쥬스 메이커     | [ios-juice-maker](https://github.com/yagom-academy/ios-juice-maker/issues?q=mentions%3AJudy-999+is%3Aclosed+)    | 
+| 계산기    | [ios-calculator-app](https://github.com/yagom-academy/ios-calculator-app/pulls?q=mentions%3AJudy-999+is%3Aclosed+)  | 
